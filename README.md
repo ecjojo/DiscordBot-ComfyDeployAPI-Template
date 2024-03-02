@@ -21,9 +21,11 @@ https://discord.com/developers/applications
      "clientId": "",
      "guildId": ""
 5. Create your Workflow and deoploy in comfydeploy
-6. Enter the apiTokek and deployment_id in `command/create.js`
-7. `node deploy_commands`to deploy the bot command
-8. `node index`to run
+6. This template design for txt2image workflow. make sure you have setting 
+7. Enter the apiTokek and deployment_id in `command/create.js`
+8. `node deploy_commands`to deploy the bot command
+9. `node index`to run discord server
+10. enter /create in discord
 
 
 
