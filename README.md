@@ -27,11 +27,14 @@ https://discord.com/developers/applications
 9. `node index`to run discord server
 10. enter /create in discord
 
+---
+✨Please let me know if you have any questions!
+
+my discord community: 
+
+https://discord.gg/pXZ578wFNa
 
 
+My Twitter:
 
-
-
-
-
-
+https://twitter.com/ecjojo_ai
