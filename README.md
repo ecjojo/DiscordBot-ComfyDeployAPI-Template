@@ -25,7 +25,7 @@ https://discord.com/developers/applications
 7. Enter the apiTokek and deployment_id in `command/create.js`
 8. `node deploy_commands`to deploy the bot command
 9. `node index`to run discord server
-10. enter /create in discord
+10. enter `/create` in discord
 
 ---
 ✨Please let me know if you have any questions!
